@@ -19,7 +19,7 @@ namespace HelloWorld
     public class Function
        {
         // private static readonly TracerProvider TracerProvider;
-        private static readonly ActivitySource ActivitySource;
+        // private static readonly ActivitySource ActivitySource;
 
         // static Function()
         // {

@@ -19,10 +19,7 @@ Resources:
       MemorySize: 256
       Environment:
         Variables:
-          DT_TENANT: kge67267
-          DT_CLUSTER_ID: -1164714198
-          DT_CONNECTION_BASE_URL: https://kge67267.live.dynatrace.com1
-          DT_CONNECTION_AUTH_TOKEN: dt0a01.kge67267.dee0d929f1beab632cd6b6c539bc2ebd8d5c1938d488d7b85cc322f7c423ce75
+          variable1: ''
       Events:
         HelloWorld:
           Type: Api
